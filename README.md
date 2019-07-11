@@ -1,4 +1,4 @@
-<h1>Dvostrane SSL/TLS autentikacija između REST servisa uporabom digitalnih certifikata</h1>
+<h1>Dvostrana SSL/TLS autentikacija između REST servisa uporabom digitalnih certifikata</h1>
 <h4>Fakultet Organizacije i informatike, Varaždin</h4>
 <p>Ovaj projekt rađen je za potrebe praktičnog dijela istoimenog seminarskog rada na kolegiju Sigurnost informacijskih sustava</p>
 <p><b>Autor projekta:</b><br/>
